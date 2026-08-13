@@ -1,0 +1,11 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+
+# PyInstaller
+*.spec
